@@ -1,0 +1,5 @@
+config:
+  aws:region: us-west-2
+  jd_static:errorDocument: error.html
+  jd_static:indexDocument: index.html
+  jd_static:path: ./www
